@@ -13,7 +13,7 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 
 - [System Design](/System%20Design/)
 	- [0. Introduction](/System%20Design/0.%20Introduction/)
-		- [0.1 Systems Development Life Cycle (SDLC)](System Design/0. Introduction/0.1 Systems Development Life Cycle (SDLC).md)
+		- [0.1 Systems Development Life Cycle (SDLC)](/System%20Design/0.%20Introduction/0.1%20Systems%20Development%20Life%20Cycle%20(SDLC).md)
 
 # 📚 Sources & References
 
