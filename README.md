@@ -42,4 +42,4 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 2. The software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement.
 
-For more details, refer to the [LICENSE](https://github.com/maniebra/awesome-precommit/blob/main/LICENSE) file.
+For more details, refer to the [LICENSE](/LICENSE) file.
