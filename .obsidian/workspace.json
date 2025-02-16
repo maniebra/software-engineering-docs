@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b912d65eafeca07",
+        "id": "fbf6c0bd198ca90c",
         "type": "tabs",
         "children": [
           {
-            "id": "c5cd2c23c2b95f33",
+            "id": "60cc3cc9ba1a2fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "System Design/2. Development/Data Modeling and Database Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Data Modeling and Database Design"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "System Design/2. Development/Data Modeling and Database Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Data Modeling and Database Design"
             }
           },
           {
@@ -142,21 +142,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "System Design/2. Development/Data Modeling and Database Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Data Modeling and Database Design"
+            }
+          },
+          {
+            "id": "5a4abced94dff8b1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +175,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5cd2c23c2b95f33",
+  "active": "60cc3cc9ba1a2fdd",
   "lastOpenFiles": [
-    "README.md"
+    "System Design/0. Introduction/0.1 SDLC.md",
+    "Software Engineering/0. Introduction/Rules of Software Architecture.md",
+    "System Design/0. Introduction",
+    "System Design/4. Implementation",
+    "System Design/3. Design",
+    "System Design/2. Analysis",
+    "System Design/1. Planning",
+    "System Design/2. Development/API Design.md",
+    "Software Engineering/0. Introduction",
+    "System Design/Untitled.md",
+    "System Design/2. Development/Data Modeling and Database Design.md",
+    "System Design/2. Development/Design Principles.md",
+    "System Design/2. Development/Architectural Patterns.md",
+    "README.md",
+    "System Design/1. Planning/Untitled.md",
+    "System Design/4. Testing",
+    "System Design/3. Deployment",
+    "System Design/2. Development",
+    "System Design/1. Planning"
   ]
 }
