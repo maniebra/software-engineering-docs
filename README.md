@@ -30,3 +30,16 @@ Since I created this repository in hopes of becoming one of the most outstanding
 4. Create a pull request.
 5. Wait until your pull request is reviewed.
 6. If all is good, your contribution will be merged into this repository!
+
+# ⚖️ License
+
+This project is licensed under the **MIT License**.
+
+Copyright © 2025 Mani Ebrahimi
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. The software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+For more details, refer to the [LICENSE](https://github.com/maniebra/awesome-precommit/blob/main/LICENSE) file.
