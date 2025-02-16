@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/0. Introduction/0.1 Systems Development Life Cycle (SDLC).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.1 Systems Development Life Cycle (SDLC)"
+              "title": "README"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "60cc3cc9ba1a2fdd",
   "lastOpenFiles": [
-    "README.md",
     "System Design/0. Introduction/0.1 Systems Development Life Cycle (SDLC).md",
+    "README.md",
     "Software Engineering/0. Introduction/Rules of Software Architecture.md",
     "System Design/0. Introduction",
     "System Design/4. Implementation",
