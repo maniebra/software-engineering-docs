@@ -18,18 +18,19 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 # 📚 Sources & References
 
 1. [System Analysis and Design - Alan Dennis, Barbara Haley Wixom, Roberta M. Roth](https://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/Systemanalysisanddesign.pdf)
+2. Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software
 
 
 # 🤝 Contributing
 
 Since I created this repository in hopes of becoming one of the most outstanding software engineering guides one day, your contributions will be much appreciated. To contribute to this project, you have to follow these steps:
 
-1. Fork the repository.
-2. Clone the forked repository to your local device.
-3. Add your contents or modify the contents you see fit to alter.
-4. Create a pull request.
-5. Wait until your pull request is reviewed.
-6. If all is good, your contribution will be merged into this repository!
+3. Fork the repository.
+4. Clone the forked repository to your local device.
+5. Add your contents or modify the contents you see fit to alter.
+6. Create a pull request.
+7. Wait until your pull request is reviewed.
+8. If all is good, your contribution will be merged into this repository!
 
 # ⚖️ License
 
@@ -37,9 +38,9 @@ This project is licensed under the **MIT License**.
 
 Copyright © 2025 Mani Ebrahimi
 
-You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, subject to the following conditions:
+You are free to use, copy, modify, merge, publish, distribute, sub-license, and/or sell copies of this software, subject to the following conditions:
 
-1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-2. The software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement.
+9. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+10. The software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement.
 
 For more details, refer to the [LICENSE](/LICENSE) file.
