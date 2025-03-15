@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60cc3cc9ba1a2fdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/0. Introduction/0.1 Systems Development Life Cycle (SDLC).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0.1 Systems Development Life Cycle (SDLC)"
-            }
-          },
-          {
             "id": "0657501b1e23e966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Decorator Pattern.md",
+                "file": "Software Engineering/Rules of Software Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decorator Pattern"
+              "title": "Rules of Software Architecture"
+            }
+          },
+          {
+            "id": "c5c55b92c40e544b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architecture/Architectural Patterns/MVC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MVC"
             }
           }
         ],
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,31 +194,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0657501b1e23e966",
+  "active": "6c2c9ab2bae366a1",
   "lastOpenFiles": [
-    "Design Patterns/Design Principles.md",
-    "Design Patterns/Decorator Pattern.md",
+    "Software Engineering/Rules of Software Architecture.md",
+    "Software Architecture/Architectural Patterns/MVC.md",
     "Design Patterns/Observer Pattern.md",
-    "README.md",
+    "Software Architecture/Architectural Patterns",
+    "Software Architecture",
+    "Design Patterns/Decorator Pattern.md",
+    "Design Patterns/Factory Pattern.md",
+    "Microservices/What Are Microservices.md",
+    "Fundamentals of Software Architecture An Engineering Approach-Mark Richards, Neal Ford-O'Reilly-9781492043454-EBooksWorld.ir.pdf",
+    "requests-module.md",
+    "Head First Design Patterns, 2nd Edition by Elisabeth Robson, Eric Freeman-O'Reilly-9781492078005-EBooksWorld.ir 1.pdf",
+    "Fundamentals of Software Architecture An Engineering Approach-Mark Richards, Neal Ford-O'Reilly-9781492043454-EBooksWorld.ir 1.pdf",
+    "Head First Design Patterns, 2nd Edition by Elisabeth Robson, Eric Freeman-O'Reilly-9781492078005-EBooksWorld.ir.pdf",
+    "Microservices",
+    "Design Patterns/Design Principles.md",
     "System Design/0. Introduction/0.1 Systems Development Life Cycle (SDLC).md",
+    "README.md",
     "LICENSE",
     "System.md",
     "System Design.md",
-    "Software Engineering/0. Introduction/Rules of Software Architecture.md",
     "System Design/0. Introduction",
     "System Design/4. Implementation",
-    "System Design/3. Design",
-    "System Design/2. Analysis",
-    "System Design/1. Planning",
     "System Design/2. Development/API Design.md",
-    "Software Engineering/0. Introduction",
     "System Design/Untitled.md",
     "System Design/2. Development/Data Modeling and Database Design.md",
     "System Design/2. Development/Design Principles.md",
     "System Design/2. Development/Architectural Patterns.md",
-    "System Design/1. Planning/Untitled.md",
-    "System Design/4. Testing",
-    "System Design/3. Deployment",
-    "System Design/2. Development"
+    "System Design/1. Planning/Untitled.md"
   ]
 }

@@ -7,7 +7,7 @@
 
 ## What it actually means
 
-Suppose you have a waitperson at a restaurant holding an important meeting. This server will make the arrangements and synchronize all the entities (including guests and other wait-people). You can tell them to add something (like a drink) to your bill, and the waitperson will track all the information from all the entities across the restaurant. The observer pattern does the same thing. It keeps track of the data needed globally across the program.
+Suppose you have a waitperson at a restaurant holding an important meeting. This server will make the arrangements and synchronize all the entities (including guests and other wait-people). You can tell them to add something (like a drink) to your bill, and the waitperson will track all the information from all the entities across the restaurant. The observer pattern does the same thing. It keeps track of the data needed globally across the program.d
 
 
 ## The meaning of "loose coupling"
