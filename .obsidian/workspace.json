@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architecture/Architectural Patterns/MVC.md",
+                "file": "Software Architecture/Architectural Patterns/EDA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MVC"
+              "title": "EDA"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 284.5
   },
   "right": {
     "id": "815dfb267e4a156a",
@@ -194,10 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c2c9ab2bae366a1",
+  "active": "c5c55b92c40e544b",
   "lastOpenFiles": [
-    "Software Engineering/Rules of Software Architecture.md",
     "Software Architecture/Architectural Patterns/MVC.md",
+    "Software Architecture/Architectural Patterns/EDA.md",
+    "Software Architecture/Architectural Patterns/Microservice Architecture.md",
+    "Software Architecture/Architectural Patterns/MVVM.md",
+    "Software Architecture/Architectural Patterns/Layered Architecture.md",
+    "Software Architecture/Architectural Patterns/Hexagonal.md",
+    "Software Architecture/Architectural Patterns/Clean Architecture.md",
+    "Software Engineering/Rules of Software Architecture.md",
     "Design Patterns/Observer Pattern.md",
     "Software Architecture/Architectural Patterns",
     "Software Architecture",
