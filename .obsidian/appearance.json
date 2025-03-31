@@ -1,4 +1,5 @@
 {
   "cssTheme": "Blue Topaz",
-  "accentColor": "#5cf5ce"
+  "accentColor": "",
+  "nativeMenus": true
 }

@@ -1,3 +1,5 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "make-md",
+  "obsidian-linter"
 ]

@@ -34,9 +34,33 @@
               "icon": "lucide-file",
               "title": "EDA"
             }
+          },
+          {
+            "id": "2c34ee281d16f27e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "9508c92541795a7c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Software Architecture/Architectural Patterns"
+              },
+              "icon": "lucide-file",
+              "title": "Architectural Patterns"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,6 +104,16 @@
             }
           },
           {
+            "id": "5a4abced94dff8b1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "18ef49d980408372",
             "type": "leaf",
             "state": {
@@ -88,8 +122,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "cc5d3eee55168aa1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,27 +202,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/2. Development/Data Modeling and Database Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Modeling and Database Design"
-            }
-          },
-          {
-            "id": "5a4abced94dff8b1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,10 +228,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5c55b92c40e544b",
+  "active": "9508c92541795a7c",
   "lastOpenFiles": [
-    "Software Architecture/Architectural Patterns/MVC.md",
+    "README.md",
+    "Tags",
     "Software Architecture/Architectural Patterns/EDA.md",
+    "Software Architecture/Architectural Patterns/MVC.md",
     "Software Architecture/Architectural Patterns/Microservice Architecture.md",
     "Software Architecture/Architectural Patterns/MVVM.md",
     "Software Architecture/Architectural Patterns/Layered Architecture.md",
@@ -218,12 +254,10 @@
     "Microservices",
     "Design Patterns/Design Principles.md",
     "System Design/0. Introduction/0.1 Systems Development Life Cycle (SDLC).md",
-    "README.md",
     "LICENSE",
     "System.md",
     "System Design.md",
     "System Design/0. Introduction",
-    "System Design/4. Implementation",
     "System Design/2. Development/API Design.md",
     "System Design/Untitled.md",
     "System Design/2. Development/Data Modeling and Database Design.md",
