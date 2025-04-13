@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b4956fd188211dd3","x":-108,"y":-160,"width":115,"height":60,"type":"text","text":"Planning"},
+		{"id":"e72ff89ae20cabce","x":7,"y":-60,"width":120,"height":60,"type":"text","text":"Modeling"},
+		{"id":"54949b16b91c97c5","x":127,"y":40,"width":147,"height":60,"type":"text","text":"Construction"},
+		{"id":"2228fa9ff353bb18","x":274,"y":140,"width":132,"height":60,"type":"text","text":"Deployment"},
+		{"id":"c4230fe6746c9689","x":-280,"y":-260,"width":160,"height":60,"type":"text","text":"Communication"}
+	],
+	"edges":[
+		{"id":"e2985e2ddf76b024","fromNode":"c4230fe6746c9689","fromSide":"right","toNode":"b4956fd188211dd3","toSide":"top"},
+		{"id":"eb13e2a46e99b745","fromNode":"b4956fd188211dd3","fromSide":"right","toNode":"e72ff89ae20cabce","toSide":"top"},
+		{"id":"024e94bf7f73fb58","fromNode":"e72ff89ae20cabce","fromSide":"right","toNode":"54949b16b91c97c5","toSide":"top"},
+		{"id":"50f4233509b97c24","fromNode":"54949b16b91c97c5","fromSide":"right","toNode":"2228fa9ff353bb18","toSide":"top"}
+	]
+}
