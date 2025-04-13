@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Process Models/Unified Process Model (UP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Unified Process Model (UP)"
             }
           }
         ]
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Process Models/Unified Process Model (UP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Unified Process Model (UP)"
             }
           }
         ],
@@ -192,9 +192,13 @@
   },
   "active": "16cedc7261750a68",
   "lastOpenFiles": [
+    "The Agile Philosophy/DSDM Principles.md",
+    "The Agile Philosophy/Scrum Principles.md",
+    "The Agile Philosophy/Agile Principles.md",
+    "The Agile Philosophy/The Definition of Agility.md",
+    "README.md",
     "Process Models/Other Process Models.md",
     "Process Models/Unified Process Model (UP).md",
-    "README.md",
     "Process Models%2FUnified Process Model (UP).md",
     "Principles/Planning Principles.md",
     "Principles/Contribution Principles.md",
@@ -215,11 +219,7 @@
     "Principles/Modeling Principles/Agile Modeling Principles.md",
     "Principles/Principles.md",
     "Software Engineering/Organizational Paradigms.md",
-    "System Design/0. Introduction/0.1 Systems Development Life Cycle (SDLC).md",
-    "Principles/Modeling Principles/Modeling Principles.md",
     "Principles/Modeling Principles",
-    "Principles/Modeling Principles/Design Modeling Principles.md",
-    "Resources/images/images.md",
     "Principles",
     "Resources/images/Pasted image 20250413231002.png",
     "Resources/images/Pasted image 20250413230023.png",

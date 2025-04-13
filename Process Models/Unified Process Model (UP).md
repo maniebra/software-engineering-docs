@@ -75,7 +75,7 @@ These workflows happen in every phase but with different intensity.
 
 
 
-## When to Use UP
+# When to Use UP
 
 The Unified Process is ideal for:
 
@@ -85,3 +85,13 @@ The Unified Process is ideal for:
 
 
 The Unified Process brings **structure** and **discipline** to software development, while still being **flexible** enough to adapt to the realities of iterative delivery.
+
+# Agile Unified Process (AUP)
+
+Each AUP iteration addresses these activities:
+- Modeling
+- Implementation
+- Testing
+- Deployment
+- Configuration and project management
+- Environment management
