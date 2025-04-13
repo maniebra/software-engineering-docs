@@ -33,3 +33,9 @@ Each development phase has a matching test phase:
 - Still rigid — not great for changing requirements.
 - No early working prototypes.
 - More complex than Waterfall.
+
+# Diagrams
+
+![[Pasted image 20250413230005.png]]
+
+![[Pasted image 20250413230023.png]]

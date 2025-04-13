@@ -14,7 +14,10 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 - [System Design](/System%20Design/)
 	- [0. Introduction](/System%20Design/0.%20Introduction/)
 		- [0.1 Systems Development Life Cycle (SDLC)](/System%20Design/0.%20Introduction/0.1%20Systems%20Development%20Life%20Cycle%20(SDLC).md)
-
+- [Process Models](/Process%20Models/)
+	- [V Model](/Process%20Models/V-Model.md)
+	- [Waterfall Model](Process%20Models/Waterfall%20Model.md)
+	- [Incremental Model](Process%20Models/Incremental%20Model)
 # 📚 Sources & References
 
 1. [System Analysis and Design - Alan Dennis, Barbara Haley Wixom, Roberta M. Roth](https://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/Systemanalysisanddesign.pdf)
