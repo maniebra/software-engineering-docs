@@ -1,0 +1,3 @@
+1. The construction activity encompasses a set of coding and testing tasks that lead to operational software that is ready for delivery to the customer or end-user.
+2. Coding principles and concepts are closely aligned programming style, programming languages, and programming methods. 
+3. Testing principles and concepts lead to the design of tests that systematically uncover different classes of errors and to do so with a minimum amount of time and effort.
