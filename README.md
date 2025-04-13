@@ -18,6 +18,15 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 	- [V Model](/Process%20Models/V-Model.md)
 	- [Waterfall Model](Process%20Models/Waterfall%20Model.md)
 	- [Incremental Model](Process%20Models/Incremental%20Model)
+- [Software Engineering](Software%20Engineering)
+	- [Organizational Paradigms](Software%20Engineering/Organizational%20Paradigms)
+- [Principles](Principles)
+	- [Modeling Principles](Principles/Modeling%20Principles)
+		- [Agile Modeling Principles](Principles/Modeling%20Principles/Agile%20Modeling%20Principles)
+		- [Design Modeling Principles](Principles/Modeling%20Principles/Design%20Modeling%20Principles)
+		- [Requirements Modeling Principles](Principles/Modeling%20Principles/Requirements%20Modeling%20Principles)
+		- [Living Modeling Principles](Principles/Modeling%20Principles/Living%20Modeling%20Principles)
+
 # 📚 Sources & References
 
 1. [System Analysis and Design - Alan Dennis, Barbara Haley Wixom, Roberta M. Roth](https://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/Systemanalysisanddesign.pdf)
