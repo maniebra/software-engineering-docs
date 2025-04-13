@@ -11,10 +11,14 @@
             "id": "16cedc7261750a68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Process Models/Unified Process Model (UP).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Unified Process Model (UP)"
             }
           }
         ]
@@ -159,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Process Models/Unified Process Model (UP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Unified Process Model (UP)"
             }
           }
         ],
@@ -187,8 +192,8 @@
   },
   "active": "16cedc7261750a68",
   "lastOpenFiles": [
-    "Process Models/Unified Process Model (UP).md",
     "README.md",
+    "Process Models/Unified Process Model (UP).md",
     "Process Models%2FUnified Process Model (UP).md",
     "Principles/Planning Principles.md",
     "Principles/Contribution Principles.md",
