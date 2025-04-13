@@ -1,0 +1,3 @@
+- Component based development (CBD): the process to apply when reuse is a development objective.
+- Formal methods: emphasizes the mathematical specification of requirements
+- Aspect-oriented Software Design (AOSD): provides a process and methodological approach for defining, specifying, designing, and constructing aspects
