@@ -18,6 +18,7 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 	- [V Model](/Process%20Models/V-Model.md)
 	- [Waterfall Model](Process%20Models/Waterfall%20Model.md)
 	- [Incremental Model](Process%20Models/Incremental%20Model)
+	- [Unified Process Model (UP)](Process%20Models/Unified%20Process%20Model%20(UP))
 - [Software Engineering](Software%20Engineering)
 	- [Organizational Paradigms](Software%20Engineering/Organizational%20Paradigms)
 - [Principles](Principles)

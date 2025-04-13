@@ -43,7 +43,8 @@
     "//Resources/Resources/images",
     "//Modeling Principles",
     "//Principles",
-    "//The Agile Philosophy"
+    "//The Agile Philosophy",
+    "//Process Models"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
