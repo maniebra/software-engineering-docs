@@ -21,12 +21,18 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 - [Software Engineering](Software%20Engineering)
 	- [Organizational Paradigms](Software%20Engineering/Organizational%20Paradigms)
 - [Principles](Principles)
+	- [Process Principles](Principles/Process%20Principles.md)
 	- [Modeling Principles](Principles/Modeling%20Principles)
 		- [Agile Modeling Principles](Principles/Modeling%20Principles/Agile%20Modeling%20Principles)
 		- [Design Modeling Principles](Principles/Modeling%20Principles/Design%20Modeling%20Principles)
 		- [Requirements Modeling Principles](Principles/Modeling%20Principles/Requirements%20Modeling%20Principles)
 		- [Living Modeling Principles](Principles/Modeling%20Principles/Living%20Modeling%20Principles)
-
+	- [Communication Principles](Principles/Communication%20Principles.md)
+	- [Construction Principles](Principles/Construction%20Principles.md)
+	- [Contribution Principles](Principles/Contribution%20Principles.md)
+	- [Deployment Principles](Principles/Deployment%20Principles.md)
+	- [Planning Principles](Principles/Planning%20Principles.md)
+	- [Practice Principles](Principles/Practice%20Principles.md)
 # 📚 Sources & References
 
 1. [System Analysis and Design - Alan Dennis, Barbara Haley Wixom, Roberta M. Roth](https://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/Systemanalysisanddesign.pdf)
