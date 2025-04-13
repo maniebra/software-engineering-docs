@@ -11,10 +11,14 @@
             "id": "271705f871672990",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Principles/Contribution Principles.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Contribution Principles"
             }
           }
         ]
@@ -159,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Principles/Contribution Principles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Contribution Principles"
             }
           }
         ],
@@ -187,6 +192,20 @@
   },
   "active": "271705f871672990",
   "lastOpenFiles": [
+    "Principles/Testing Principles.md",
+    "Principles/Contribution Principles.md",
+    "Principles/Validation Principles.md",
+    "Principles/Preparation Principles.md",
+    "Principles/Coding Principles.md",
+    "Principles/Deployment Principles.md",
+    "Principles/Construction Principles.md",
+    "Principles/Planning Principles.md",
+    "Principles/Communication Principles.md",
+    "Principles/Practice Principles.md",
+    "Principles/Process Principles.md",
+    "The Agile Philosophy/Extreme Programming (XP).md",
+    "The Agile Philosophy/The Agile Philosophy.md",
+    "The Agile Philosophy",
     "Principles/Modeling Principles/Requirements Modeling Principles.md",
     "README.md",
     "Principles/Modeling Principles/Living Modeling Principles.md",
@@ -203,31 +222,17 @@
     "Process Models/Incremental Model.md",
     "Resources/images/Pasted image 20250413231002.png",
     "Process Models/Waterfall Model.md",
-    "Process Models/V-Model.md",
     "Resources/images/Pasted image 20250413230023.png",
     "Resources/images/Pasted image 20250413230005.png",
-    "Process Models/Process Models.md",
     "Resources/images",
-    "Resources/Resources.md",
     "Resources",
     "Resources/images/Pasted image 20250413225615.png",
     "System Design/Untitled.canvas",
-    "Vault.md",
-    "Canvas/Canvas.md",
     "Canvas",
     "Canvas/Waterfall model.canvas",
-    "Software Architecture/Rules of Software Architecture.md",
-    "Software Architecture/Architectural Patterns/EDA.md",
-    "Process Models.md",
     "Process Models",
     "Tags",
-    "Software Architecture/Architectural Patterns/MVC.md",
-    "Software Architecture/Architectural Patterns/Microservice Architecture.md",
-    "Software Architecture/Architectural Patterns/MVVM.md",
-    "Software Architecture/Architectural Patterns/Layered Architecture.md",
-    "Software Architecture/Architectural Patterns/Hexagonal.md",
     "Software Architecture/Architectural Patterns",
-    "Software Architecture",
-    "Fundamentals of Software Architecture An Engineering Approach-Mark Richards, Neal Ford-O'Reilly-9781492043454-EBooksWorld.ir.pdf"
+    "Software Architecture"
   ]
 }
