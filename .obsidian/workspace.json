@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0f25d75e251133",
+        "id": "897fa639bc82a389",
         "type": "tabs",
         "children": [
           {
-            "id": "16cedc7261750a68",
+            "id": "29cb85681152b2dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Process Models/Unified Process Model (UP).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Unified Process Model (UP)"
+              "title": "New tab"
             }
           }
         ]
@@ -163,13 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process Models/Unified Process Model (UP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unified Process Model (UP)"
+              "title": "Outline"
             }
           }
         ],
@@ -190,15 +185,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16cedc7261750a68",
+  "active": "29cb85681152b2dc",
   "lastOpenFiles": [
     "The Agile Philosophy/DSDM Principles.md",
+    "README.md",
+    "System Design/0. Introduction/0.1 Systems Development Life Cycle (SDLC).md",
+    "Process Models/Process Models.md",
+    "The Agile Philosophy/The Agile Philosophy.md",
+    "Process Models/Unified Process Model (UP).md",
     "The Agile Philosophy/Scrum Principles.md",
     "The Agile Philosophy/Agile Principles.md",
     "The Agile Philosophy/The Definition of Agility.md",
-    "README.md",
     "Process Models/Other Process Models.md",
-    "Process Models/Unified Process Model (UP).md",
     "Process Models%2FUnified Process Model (UP).md",
     "Principles/Planning Principles.md",
     "Principles/Contribution Principles.md",
@@ -212,13 +210,10 @@
     "Principles/Practice Principles.md",
     "Principles/Process Principles.md",
     "The Agile Philosophy/Extreme Programming (XP).md",
-    "The Agile Philosophy/The Agile Philosophy.md",
     "The Agile Philosophy",
     "Principles/Modeling Principles/Requirements Modeling Principles.md",
     "Principles/Modeling Principles/Living Modeling Principles.md",
     "Principles/Modeling Principles/Agile Modeling Principles.md",
-    "Principles/Principles.md",
-    "Software Engineering/Organizational Paradigms.md",
     "Principles/Modeling Principles",
     "Principles",
     "Resources/images/Pasted image 20250413231002.png",

@@ -11,6 +11,12 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 
 # 📃 Table of Contents
 
+- [The Agile Philosophy](The%20Agile%20Philosophy)
+	- [The Definition of Agility](The%20Agile%20Philosophy/The%20Definition%20of%20Agility.md)
+	- [Extreme Programming](The%20Agile%20Philosophy/Extreme%20Programming.md)
+	- [Agile Principles](The%20Agile%20Philosophy/Agile%20Principles.md)
+	- [Scrum Principles](The%20Agile%20Philosophy/Scrum%20Principles.md)
+	- [DSDM Principles](The%20Agile%20Philosophy/DSDM%20Principles.md)
 - [System Design](/System%20Design/)
 	- [0. Introduction](/System%20Design/0.%20Introduction/)
 		- [0.1 Systems Development Life Cycle (SDLC)](/System%20Design/0.%20Introduction/0.1%20Systems%20Development%20Life%20Cycle%20(SDLC).md)
