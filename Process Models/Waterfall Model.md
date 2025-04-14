@@ -22,4 +22,4 @@ The Waterfall model is one of the earliest and simplest models used in software 
 - Risky for complex or long-term projects.
 
 # Diagram
-![[Pasted image 20250413225615.png]]
+![diagram](Images/Pasted%20image%2020250413225615.png)

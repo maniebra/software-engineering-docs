@@ -36,6 +36,6 @@ Each development phase has a matching test phase:
 
 # Diagrams
 
-![[Pasted image 20250413230005.png]]
+![v model 1](Images/Pasted%20image%2020250413230005.png)
 
-![[Pasted image 20250413230023.png]]
+![v-model 2](Images/Pasted%20image%2020250413230023.png)

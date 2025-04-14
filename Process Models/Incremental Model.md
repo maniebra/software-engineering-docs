@@ -26,4 +26,4 @@ The **Incremental Model** combines elements of the **Waterfall model** with iter
 
 # Diagram
 
-![[Pasted image 20250413231002.png]]
+![incremental model](Images/Pasted%20image%2020250413231002.png)
