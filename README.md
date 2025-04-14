@@ -7,7 +7,7 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 
 - [The Agile Philosophy](The%20Agile%20Philosophy)
 	- [The Definition of Agility](The%20Agile%20Philosophy/The%20Definition%20of%20Agility.md)
-	- [Extreme Programming](The%20Agile%20Philosophy/Extreme%20Programming.md)
+	- [Extreme Programming](The%20Agile%20Philosophy/Extreme%20Programming%20(XP).md)
 	- [Agile Principles](The%20Agile%20Philosophy/Agile%20Principles.md)
 	- [Scrum Principles](The%20Agile%20Philosophy/Scrum%20Principles.md)
 	- [DSDM Principles](The%20Agile%20Philosophy/DSDM%20Principles.md)
@@ -20,7 +20,7 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 	- [V Model](/Process%20Models/V-Model.md)
 	- [Waterfall Model](Process%20Models/Waterfall%20Model.md)
 	- [Incremental Model](Process%20Models/Incremental%20Model.md)
-	- [Other Process Models](Process%20Models/Other%20Process%20Model.md)
+	- [Other Process Models](Process%20Models/Other%20Process%20Models.md)
 	- [Unified Process Model (UP)](Process%20Models/Unified%20Process%20Model%20(UP).md)
 - [Design Patterns](Design%20Patterns)
 	- [Decorator Pattern](Design%20Patterns/Decorator%20Pattern.md)
