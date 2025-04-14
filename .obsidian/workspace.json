@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "897fa639bc82a389",
+        "id": "359c4fdc227407ec",
         "type": "tabs",
         "children": [
           {
-            "id": "29cb85681152b2dc",
+            "id": "ed77337e31365b76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Process Models/Incremental Model.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Incremental Model"
+              "title": "New tab"
             }
           }
         ]
@@ -163,13 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process Models/Incremental Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Incremental Model"
+              "title": "Outline"
             }
           }
         ],
@@ -190,21 +185,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29cb85681152b2dc",
+  "active": "ed77337e31365b76",
   "lastOpenFiles": [
+    "The Agile Philosophy/Sprints.md",
+    "README.md",
+    "The Agile Philosophy/DSDM Principles.md",
+    "The Agile Philosophy/The Agile Philosophy.md",
+    "The Agile Philosophy/Roles in Scrum.md",
+    "Process Models/Incremental Model.md",
     "Process Models/Waterfall Model.md",
     "Process Models/V-Model.md",
-    "Process Models/Incremental Model.md",
     "Process Models/images/Pasted image 20250413231002.png",
     "Process Models/images/Pasted image 20250413230023.png",
     "Process Models/images/Pasted image 20250413230005.png",
     "Process Models/images/Pasted image 20250413225615.png",
     "Resources/Resources.md",
-    "The Agile Philosophy/DSDM Principles.md",
-    "README.md",
     "System Design/0. Introduction/0.1 Systems Development Life Cycle (SDLC).md",
     "Process Models/Process Models.md",
-    "The Agile Philosophy/The Agile Philosophy.md",
     "Process Models/Unified Process Model (UP).md",
     "The Agile Philosophy/Scrum Principles.md",
     "The Agile Philosophy/Agile Principles.md",
@@ -220,7 +217,6 @@
     "Principles/Deployment Principles.md",
     "Principles/Construction Principles.md",
     "Principles/Communication Principles.md",
-    "Principles/Practice Principles.md",
     "The Agile Philosophy",
     "Principles/Modeling Principles",
     "Principles",
