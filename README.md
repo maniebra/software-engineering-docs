@@ -43,6 +43,10 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 	- [Deployment Principles](Principles/Deployment%20Principles.md)
 	- [Planning Principles](Principles/Planning%20Principles.md)
 	- [Practice Principles](Principles/Practice%20Principles.md)
+- [Snippets and Cheatsheets](Snippets%20and%20Cheatsheets)
+	- [Process Models Use Cases](Snippets%20and%20Cheatsheets/Process%20Models%20Use%20cases.md)
+
+
 # 📚 Sources & References
 
 1. [System Analysis and Design - Alan Dennis, Barbara Haley Wixom, Roberta M. Roth](https://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/Systemanalysisanddesign.pdf)

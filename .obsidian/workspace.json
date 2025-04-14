@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets and Cheatsheets/Process Models Use cases.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process Models Use cases"
+              "title": "README"
             }
           }
         ]
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets and Cheatsheets/Process Models Use cases.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Process Models Use cases"
+              "title": "Outline of README"
             }
           }
         ],
@@ -192,8 +192,8 @@
   },
   "active": "ed77337e31365b76",
   "lastOpenFiles": [
-    "Process Models/Other Process Models.md",
     "Snippets and Cheatsheets/Process Models Use cases.md",
+    "Process Models/Other Process Models.md",
     "Snippets and Cheatsheets/Snippets and Cheatsheets.md",
     "Snippets and Cheatsheets",
     "The Agile Philosophy/Sprints.md",
