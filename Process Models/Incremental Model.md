@@ -26,4 +26,4 @@ The **Incremental Model** combines elements of the **Waterfall model** with iter
 
 # Diagram
 
-![incremental model](Images/Pasted%20image%2020250413231002.png)
+![incremental model](https://github.com/maniebra/software-engineering-docs/blob/main/Process%20Models/images/Pasted%20image%2020250413231002.png?raw=true)
