@@ -37,6 +37,7 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 		- [MVVM](Software%20Architecture/Architectural%20Patterns/MVVM.md)
 		- [Layered Architecture](Software%20Architecture/Architectural%20Patterns/Layered%20Architecture.md)
 		- [Microservice Architecture](Software%20Architecture/Architectural%20Patterns/Microservice%20Architecture.md)
+	- [Rules of Software Architecture](Software%20Architecture/Rules%20of%20Software%20Architecture.md)
 - [Principles](Principles)
 	- [Design Principles](Principles/Design%20Principles.md)
 	- [Process Principles](Principles/Process%20Principles.md)
