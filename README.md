@@ -3,12 +3,6 @@
 
 Since I am studying software engineering, I encountered many concepts and ideas that every software engineer needs to know. Hence, I decided to compile them all into one repository that my peers and beginners can use.
 
-# ℹ️ How to Use
-
-1. Clone this repository.
-2. Open the directory as an [Obsidian](https://obsidian.md/) vault.
-3. Enjoy!
-
 # 📃 Table of Contents
 
 - [The Agile Philosophy](The%20Agile%20Philosophy)
