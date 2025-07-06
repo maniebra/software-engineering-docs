@@ -39,6 +39,7 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 		- [Microservice Architecture](Software%20Architecture/Architectural%20Patterns/Microservice%20Architecture.md)
 	- [Rules of Software Architecture](Software%20Architecture/Rules%20of%20Software%20Architecture.md)
 - [Principles](Principles)
+	- [SOLID Principles](Principles/SOLID%20Principles.md)
 	- [Design Principles](Principles/Design%20Principles.md)
 	- [Process Principles](Principles/Process%20Principles.md)
 	- [Modeling Principles](Principles/Modeling%20Principles)
