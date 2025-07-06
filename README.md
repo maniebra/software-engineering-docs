@@ -23,6 +23,7 @@ Since I am studying software engineering, I encountered many concepts and ideas 
 	- [Other Process Models](Process%20Models/Other%20Process%20Models.md)
 	- [Unified Process Model (UP)](Process%20Models/Unified%20Process%20Model%20(UP).md)
 - [Design Patterns](Design%20Patterns)
+	- [Singleton Pattern](Design%20Patterns/Singleton%20Pattern.md)
 	- [Decorator Pattern](Design%20Patterns/Decorator%20Pattern.md)
 	- [Factory Pattern](Design%20Patterns/Factory%20Pattern.md)
 	- [Observer Pattern](Design%20Patterns/Observer%20Pattern.md)
