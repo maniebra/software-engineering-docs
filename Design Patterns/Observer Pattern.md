@@ -21,4 +21,83 @@ Loosely coupled designs allow us to build flexible object oriented systems that 
 # Practical Examples
 
 - The **event listeners** in a web app follow this pattern.
-- 
+
+# Java Example
+
+```java
+public interface Observer {
+    void update(String news);
+}
+```
+
+and then:
+
+```java
+public class EmailSubscriber implements Observer {
+    private String name;
+
+    public EmailSubscriber(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public void update(String news) {
+        System.out.println("Email to " + name + ": " + news);
+    }
+}
+
+public class SmsSubscriber implements Observer {
+    private String phoneNumber;
+
+    public SmsSubscriber(String phoneNumber) {
+        this.phoneNumber = phoneNumber;
+    }
+
+    @Override
+    public void update(String news) {
+        System.out.println("SMS to " + phoneNumber + ": " + news);
+    }
+}
+```
+
+then we need a subject:
+
+```java
+public interface Subject {
+    void attach(Observer o);
+    void detach(Observer o);
+    void notifyObservers();
+}
+```
+
+```java
+import java.util.ArrayList;
+import java.util.List;
+
+public class NewsAgency implements Subject {
+    private List<Observer> observers = new ArrayList<>();
+    private String latestNews;
+
+    public void setNews(String news) {
+        this.latestNews = news;
+        notifyObservers();
+    }
+
+    @Override
+    public void attach(Observer o) {
+        observers.add(o);
+    }
+
+    @Override
+    public void detach(Observer o) {
+        observers.remove(o);
+    }
+
+    @Override
+    public void notifyObservers() {
+        for (Observer o : observers) {
+            o.update(latestNews);
+        }
+    }
+}
+```
