@@ -282,10 +282,26 @@ nav:
                       - Structural and Cross-cutting: Assessments/Software Architecture/Structural and Cross-cutting Characteristics Quiz.md
                       - Architectural Patterns: Assessments/Software Architecture/Architectural Patterns Quiz.md
       - System Design:
-              - Feasibility Analysis: System Design/Planning/Feasibility Analysis.md
-              - NPV Worked Example: System Design/Planning/NPV Worked Example.md
-              - Load Balancers: System Design/Load Balancers.md
-              - Message Queues: System Design/Message Queues.md
+              - System Design/index.md
+              - Fundamentals:
+                      - Client, Server, and DNS: System Design/Client, Server, and DNS.md
+                      - Databases in System Design: System Design/Databases in System Design.md
+                      - Scaling: System Design/Scaling.md
+                      - Stateful vs Stateless Architecture: System Design/Stateful vs Stateless Architecture.md
+              - Core Building Blocks:
+                      - Load Balancers: System Design/Load Balancers.md
+                      - Database Replication: System Design/Database Replication.md
+                      - Caching: System Design/Caching.md
+                      - CDN and GeoDNS: System Design/CDN and GeoDNS.md
+                      - Message Queues: System Design/Message Queues.md
+                      - API Gateways: System Design/API Gateways.md
+                      - Object Storage: System Design/Object Storage.md
+                      - Observability and Automation: System Design/Observability and Automation.md
+              - Worked Examples:
+                      - Video Platform: System Design/Worked Example - Video Platform.md
+              - Planning:
+                      - Feasibility Analysis: System Design/Planning/Feasibility Analysis.md
+                      - NPV Worked Example: System Design/Planning/NPV Worked Example.md
       - Quality Assurance:
               - Quality Assurance/index.md
               - Methods of Testing: Quality Assurance/Methods of Testing.md
